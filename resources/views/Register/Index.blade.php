@@ -38,6 +38,10 @@
       <label for="email">Email address</label>
     </div>
     <div class="form-floating">
+      <input type="text" class="form-control" id="namalengkap" name="namalengkap" placeholder="namalengkap">
+      <label for="namalengkap">nama lengkap</label>
+    </div>
+    <div class="form-floating">
       <input type="password" class="form-control" id="password" name="password" placeholder="Password">
       <label for="password">Password</label>
     </div>
